@@ -82,7 +82,7 @@ async def _(event):
             "i",
             "aRriVe",
             "😈",
-            "EvErYbOdY iZ BiGGeSt NoOoB uNtiL i aRriVe 😈"
+            "EvErYbOdY iZ BiGGeSt NoOoB uNtiL @opgohil aRriVe 😈"
         ]
 
         for i in animation_ttl:
@@ -154,7 +154,7 @@ async def _(event):
             "i",
             "aRriVe",
             "😈",
-            "EvErYbOdY iZ PeRu uNtiL i aRriVe 😈"
+            "EvErYbOdY iZ PeRu uNtiL @opgohil aRriVe 😈"
         ]
 
         for i in animation_ttl:
