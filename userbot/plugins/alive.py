@@ -6,7 +6,7 @@ from platform import uname
 from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check pinned in @opgohil"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "♔彡[ i am 𝕮𝖍𝖊𝖆𝖕™ ]彡♔, check pinned in @opgohil"
 
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
