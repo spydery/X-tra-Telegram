@@ -51,7 +51,7 @@ async def _(event):
             "`▁ ▂ ▄ ▅ ▆ ▒ ▒`",
             "`▁ ▂ ▄ ▅ ▆ ▇ ▒`",
             "`▁ ▂ ▄ ▅ ▆ ▇ █`",
-            "**MTN Network Boosted....**"
+            "**MTN Network Boosted by gujjuopgohil....**"
 
  ]
 
