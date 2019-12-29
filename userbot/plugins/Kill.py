@@ -43,7 +43,7 @@ async def _(event):
             "------------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DED",
-            "**Target killed successfully by opgohil (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
+            "**Target killed successfully by Spider_xD (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
         ]
 
         for i in animation_ttl:
